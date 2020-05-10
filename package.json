@@ -1,0 +1,9 @@
+{
+  "name": "web-packed-cube",
+  "version": "1.0.0",
+  "description": "A minimal webpack + three.js setup for your crazy 3d experiments",
+  "main": "index.js",
+  "repository": "git@github.com:saranshbarua/web-packed-cube.git",
+  "author": "saranshbarua <saranshbarua@gmail.com>",
+  "license": "GNU General Public License v3.0"
+}
