@@ -20,6 +20,4 @@
 
 ### Result
 
-![Cube](./readme-screenshots/cube01.png?raw=true "Cube")
-
-![Cube2](./readme-screenshots/cube02.png?raw=true "Cube2")
+![Cube](./readme-assets/preview.gif "Cube")
